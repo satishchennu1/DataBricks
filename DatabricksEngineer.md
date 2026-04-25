@@ -2,9 +2,9 @@
 
 # Cloud FOundations 
 
-  a) how to deploy the databricks on AWS cloud . 
-
-  b) install and configure databricks  to the cloud 
+    a) how to deploy the databricks on AWS cloud . 
+  
+    b) install and configure databricks  to the cloud 
 
 # Databricks Core Platform 
 
